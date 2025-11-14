@@ -1,0 +1,26 @@
+/* Basic Page Styling */
+body {
+    background-color: #f6f6f6;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    font-size: 32px;
+    color: #222;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #444;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
